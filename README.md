@@ -15,7 +15,7 @@ The gallery is fully responsive and provides a seamless user experience with hov
 3.JavaScript
 
 # Setup Instructions
-# # Prerequisites
+## Prerequisites
 1.A modern web browser (e.g., Google Chrome, Firefox, Edge).
 2.Basic knowledge of HTML, CSS, and JavaScript.
 
