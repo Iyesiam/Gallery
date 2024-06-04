@@ -57,12 +57,17 @@ JavaScript is used to add interactivity to the gallery. Key points include:
 1. Ensure you have Node.js installed on your system. You can download it from [nodejs.org](nodejs.org).
 2. **Locate the File**:
    - Locate the arrayMap.js file in the project directory.
+  
+   
 ```sh
 cd path/to/Gallery/Challenges
+
     ```
+
 3. Open the arrayMap.js file using a text editor or an integrated development environment (IDE) of your choice.
 4. Call the hasSubarraySum function with an array and target sum to test its functionality.
 For example:
+
 ```sh
 console.log(hasSubarraySum([1, 2, 3, 4, 5], 9)); // Output: true
     ```
@@ -78,10 +83,13 @@ Check the console or terminal output for the result of the function call.
 
 ```sh
 cd path/to/Gallery/Challenges
+
 ```
+
 3. Open the stringTransform.js file using a text editor or an integrated development environment (IDE) of your choice.
 4. Call the transformString function with a string to test its functionality.
 For example:
+
 ```sh
 console.log(transformString("Hello")); // Output: 72 101 108 108 111
 
