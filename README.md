@@ -78,6 +78,7 @@ Check the console or terminal output for the result of the function call.
 
 ```sh
 cd path/to/Gallery/Challenges
+```
 3. Open the stringTransform.js file using a text editor or an integrated development environment (IDE) of your choice.
 4. Call the transformString function with a string to test its functionality.
 For example:
