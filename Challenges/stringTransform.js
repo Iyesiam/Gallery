@@ -1,3 +1,4 @@
+
 function transformString(str) {
     const length = str.length;
   
@@ -5,8 +6,10 @@ function transformString(str) {
     const divisibleBy3 = length % 3 === 0;
     const divisibleBy5 = length % 5 === 0;
   
-    // Handle divisibility by both 3 and 5 (reverse first)
+    // Handle both divisibility cases together (reverse first)
     if (divisibleBy3 && divisibleBy5) {
+      str = str.split('').reverse().join('');
+    } else if (divisibleBy3) { // Only reverse if divisible by 3 but not 5
       str = str.split('').reverse().join('');
     }
   
@@ -21,10 +24,6 @@ function transformString(str) {
       }
     }
   
-    // Reverse again if only divisible by 3
-    if (divisibleBy3 && !divisibleBy5) {
-      result = result.split('').reverse().join('');
-    }
-  
     return result.trim(); // Remove trailing space if any
   }
+  
