@@ -51,3 +51,7 @@ JavaScript is used to add interactivity to the gallery. Key points include:
 - Event listeners for photo clicks to display the modal.
 - Functionality to populate the modal with appropriate photo information.
 - Event listeners to close the modal.
+
+## Contact
+If you have any questions or need further assistance, you can contact me at [muespoir@gmail.com](muespoir@gmail.com).
+
