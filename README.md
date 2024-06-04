@@ -16,7 +16,7 @@ The gallery is fully responsive and provides a seamless user experience with hov
 
 # Setup Instructions
 ## Prerequisites
-1. **Clone the repository** (e.g., Google Chrome, Firefox, Edge).
+1. Clone the repository **(e.g., Google Chrome, Firefox, Edge)**.
 2. Basic knowledge of **HTML, CSS, and JavaScript**.
 
 # Steps
