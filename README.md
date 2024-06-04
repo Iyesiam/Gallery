@@ -3,30 +3,29 @@
 This project demonstrates an interactive photo gallery using HTML, CSS, and JavaScript. 
 The gallery is fully responsive and provides a seamless user experience with hover effects and a modal popup for detailed information.
 # Features
-1.Display a series of photos in a responsive gallery layout.
-2.Hover effect on photos with grayscale and blur.
-3.Click on photos to view more detailed information in a modal popup.
-4.Modal popup with title, description, and an image.
-5.Responsive design for various screen sizes.
+1. Display a series of photos in a responsive gallery layout.
+2. Hover effect on photos with grayscale and blur.
+3. Click on photos to view more detailed information in a modal popup.
+4. Modal popup with title, description, and an image.
+5. Responsive design for various screen sizes.
 
 # Technologies Used
-1.HTML
-2.CSS
-3.JavaScript
+1. HTML
+2. CSS
+3. JavaScript
 
 # Setup Instructions
 ## Prerequisites
-1.A modern web browser (e.g., Google Chrome, Firefox, Edge).
-2.Basic knowledge of HTML, CSS, and JavaScript.
+1. **Clone the repository** (e.g., Google Chrome, Firefox, Edge).
+2. Basic knowledge of **HTML, CSS, and JavaScript**.
 
 # Steps
-1.Clone the repository:
 ## Getting Started
 1. **Clone the repository** to your local machine:
 
     ```sh
-    git clone https://github.com/yourusername/photo-gallery.git
-    cd photo-gallery
+        git clone https://github.com/Iyesiam/Gallery.git
+        cd Gallery
     ```
 
 2. **Open the project**:
